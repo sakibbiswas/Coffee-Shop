@@ -1,6 +1,5 @@
 import { Facebook, Instagram, Twitter, Coffee } from "lucide-react";
 import { Link as ScrollLink } from "react-scroll";
-
 export default function Footer() {
   const year = new Date().getFullYear();
 
