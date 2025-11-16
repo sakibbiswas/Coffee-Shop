@@ -1,0 +1,58 @@
+export const menuItems = [
+  {
+    id: 1,
+    name: "Espresso",
+    price: "$3.50",
+    category: "Hot",
+    img: "https://www.chowhound.com/img/gallery/why-espresso-from-a-coffee-shop-always-tastes-different-from-homemade/l-intro-1740526988.jpg",
+  },
+  {
+    id: 2,
+    name: "Cappuccino",
+    price: "$4.50",
+    category: "Hot",
+    img: "https://www.allrecipes.com/thmb/chsZz0jqIHWYz39ViZR-9k_BkkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8624835-how-to-make-a-cappuccino-beauty-4x3-0301-13d55eaad60b42058f24369c292d4ccb.jpg",
+  },
+  {
+    id: 3,
+    name: "Latte",
+    price: "$4.75",
+    category: "Hot",
+    img: "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw42dcae51/images/recipe-Images/cafe-latte1-recipe_resized.jpg?sw=1200&sh=1200&sm=fit",
+  },
+  {
+    id: 4,
+    name: "Iced Coffee",
+    price: "$3.75",
+    category: "Cold",
+    img: "https://cafebarista.ca/cdn/shop/articles/comment-faire-un-cafe-glace-553038.jpg?v=1737725080",
+  },
+  {
+    id: 5,
+    name: "Mocha",
+    price: "$5.00",
+    category: "Hot",
+    img: "https://hoxtoncoffee.com/cdn/shop/articles/latte-art-on-mocha_1200x1200.jpg?v=1660069726",
+  },
+  {
+    id: 6,
+    name: "Americano",
+    price: "$3.25",
+    category: "Hot",
+    img: "https://dolo.com.au/cdn/shop/articles/522979505-shutterstock_1973536478.jpg?v=1690528484",
+  },
+  {
+    id: 7,
+    name: "Cold Brew",
+    price: "$4.25",
+    category: "Cold",
+    img: "https://www.bowlofdelicious.com/wp-content/uploads/2015/06/Milk-and-Honey-Cold-Brewed-Iced-Coffee-2.jpg",
+  },
+  {
+    id: 8,
+    name: "Frappuccino",
+    price: "$5.50",
+    category: "Cold",
+    img: "https://www.sweetfixbaker.com/wp-content/uploads/2023/05/Vanilla-Coffee-Frappuccino-Recipe.jpg",
+  },
+];
