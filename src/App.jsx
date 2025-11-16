@@ -8,7 +8,6 @@ import About from './components/About'
 import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import { setTheme } from './redux/themeSlice'
 
 export default function App() {
   const theme = useSelector((state) => state.theme.mode)
@@ -21,10 +20,10 @@ export default function App() {
   }, [theme])
 
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
+    <div className="min-h-screen text-gray-900 transition-colors duration-300 bg-white dark:bg-gray-900 dark:text-gray-100">
       <Header />
 
-      <main className="container mx-auto px-4">
+      <main className="container px-4 mx-auto">
         <section id="home"><Hero /></section>
         <section id="menu"><MenuSection /></section>
         <section id="about"><About /></section>
