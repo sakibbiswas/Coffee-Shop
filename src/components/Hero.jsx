@@ -1,10 +1,10 @@
-import React from "react";
+
 import { Link as ScrollLink } from "react-scroll";
 
 export default function Hero() {
   return (
     <section
-      className="relative flex flex-col-reverse items-center justify-between gap-12 px-6 py-32 overflow-hidden transition-colors duration-500  md:flex-row md:px-16 bg-linear-to-b from-amber-50 dark:from-gray-900 via-white dark:via-gray-900 to-white dark:to-gray-800"
+      className="relative flex flex-col-reverse items-center justify-between gap-12 px-6 py-32 overflow-hidden transition-colors duration-500 md:flex-row md:px-16 bg-linear-to-b from-amber-50 dark:from-gray-900 via-white dark:via-gray-900 to-white dark:to-gray-800"
     >
 
       {/* Decorative Background Blurs */}
