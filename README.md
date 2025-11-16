@@ -12,12 +12,16 @@ A modern, responsive landing page for a coffee shop built with React, Redux Tool
 - Favorites system (add/remove, persisted to localStorage)
 - Smooth scroll navigation
 - Responsive: mobile, tablet, desktop
-## Live Link [https://eclectic-beignet-3a99c7.netlify.app]
+## Live Link
+[View Live Site](https://eclectic-beignet-3a99c7.netlify.app)
 
 
 ## How to install
-* https://github.com/sakibbiswas/Coffee-Shop
-1. Clone or copy the project files.
+
+[View on GitHub](https://github.com/sakibbiswas/Coffee-Shop)
+1. Clone or copy the project files:
+   ```bash
+   git clone https://github.com/sakibbiswas/Coffee-Shop.git
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the dev server (Vite).
 
@@ -37,8 +41,8 @@ Place 3 screenshots in `screenshots/` (mobile.png, tablet.png, desktop.png).
 
 
 ## Your Info
-- Name: [Sazzadur Rahman Sakib]
-- Email: [sakibsakib99880@gmail.com]
+- Name:Sazzadur Rahman Sakib
+- Email:sakibsakib99880@gmail.com
 
 
 ```
